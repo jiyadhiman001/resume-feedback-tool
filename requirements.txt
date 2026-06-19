@@ -1,4 +1,5 @@
 streamlit
-pypdf2
+pdfplumber
 groq
 python-dotenv
+pypdfium2
